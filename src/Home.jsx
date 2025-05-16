@@ -1,9 +1,9 @@
-function Home() {
+const Home = ({ immage }) => {
   return (
     <div className="flex justify-center py-20 bg-pink-50">
       <div className="flex flex-col md:flex-row items-center gap-10 max-w-5xl px-4">
         <img
-          src="/animatedpicture.jpg"
+          src={immage}
           className="w-55 h-55 rounded-full"
           alt="Ali Alnader"
         />
@@ -25,6 +25,6 @@ function Home() {
       </div>
     </div>
   );
-}
+};
 
 export default Home;
