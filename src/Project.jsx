@@ -1,4 +1,4 @@
-const Project = ({ title, description, imageUrl }) => {
+const Project = ({ title, description, imageUrl, link }) => {
   return (
     <div className="bg-rose-100 rounded-xl shadow-md p-6 max-w-1xl mx-auto mt-1">
       <img

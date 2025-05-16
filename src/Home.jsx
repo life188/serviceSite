@@ -18,7 +18,8 @@ function Home() {
             development and a strong passion for building scalable, user-centric
             applications. I'm proficient in modern tools like React, Docker, and
             AWS, and I'm always eager to learn, adapt, and make meaningful
-            contributions.
+            contributions. I am currently taking a UI design course, where I’m
+            learning about design elements.
           </p>
         </div>
       </div>

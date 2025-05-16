@@ -1,6 +1,7 @@
 import Home from "./Home";
 import Navbar from "./Nav-bar";
-import Project from "./project";
+import Project from "./Project";
+
 import serviceSiteImage from "./assets/ServiceSiteImage.jpg";
 import GameAnimated from "./assets/GameAnimated.jpg";
 import StoreAnimated from "./assets/StoreAnimated.jpg";
