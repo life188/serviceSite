@@ -14,12 +14,13 @@ const Home = ({ immage }) => {
           </h1>
           <p className="mt-4 text-gray-900 text-lg">
             I am currently a third-year Software Engineering student at the
-            University of Ottawa with hands-on experience in full-stack
-            development and a strong passion for building scalable, user-centric
-            applications. I'm proficient in modern tools like React, Docker, and
-            AWS, and I'm always eager to learn, adapt, and make meaningful
-            contributions. I am currently taking a UI design course, where I’m
-            learning about design elements.
+            University of Ottawa with experience in full-stack development as
+            well as Product Managment. I love building scalable, applications in
+            my free time such as SpendSmart as well as my Weather App. I have
+            worked modern tools like React, Docker, and AWS, and I'm always
+            eager to learn, adapt, and make meaningful contributions. I am
+            currently taking a UI design course, where I’m learning about design
+            elements.
           </p>
         </div>
       </div>
