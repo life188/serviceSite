@@ -17,28 +17,28 @@ function App() {
         <a href="https://github.com/life188">
           <Project
             title="Service Site"
-            description="diuwehdiuew ewufhw fuiwehf uwehf ewuifewhuifwe ufwe ufhweufwehu fweh ufw fweuf hwefh weufhweui"
+            description="This is a github link to the service site that I am building that is coming soon"
             imageUrl={serviceSiteImage}
           />
         </a>
         <a href="https://github.com/life188">
           <Project
             title="Game"
-            description="diuwehdiuew ewufhw fuiwehf uwehf ewuifewhuifwe ufwe ufhweufwehu fweh ufw fweuf hwefh weufhweui"
+            description="This is a github link to the game site that I am building that is coming soon"
             imageUrl={GameAnimated}
           />
         </a>
         <a href="https://github.com/life188">
           <Project
             title="E-Commerce site"
-            description="diuwehdiuew ewufhw fuiwehf uwehf ewuifewhuifwe ufwe ufhweufwehu fweh ufw fweuf hwefh weufhweui"
+            description="This is a github link to the E-Commerce site that I am building that is coming soon"
             imageUrl={StoreAnimated}
           />
         </a>
         <a href="https://github.com/life188">
           <Project
             title="Analytics site + final portfolio"
-            description="diuwehdiuew ewufhw fuiwehf uwehf ewuifewhuifwe ufwe ufhweufwehu fweh ufw fweuf hwefh weufhweui"
+            description="This is a github link to the sports analytics site that I am building that is coming soon"
             imageUrl={SportsAnalytics}
           />
         </a>
