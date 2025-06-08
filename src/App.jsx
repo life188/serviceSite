@@ -8,7 +8,7 @@ import Booking from "./BookingPage";
 function App() {
   return (
     <Router>
-      <div className="bg-pink-50 min-h-screen">
+      <div className="bg-blue-50 min-h-screen">
         <NavBar />
         <Routes>
           <Route
